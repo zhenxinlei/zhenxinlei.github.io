@@ -61,8 +61,8 @@ sections:
 languages:
   - locale: 'en'
     flag: 'static/img/flags/United-States.png'
-  - locale: 'zh'
-    flag: 'static/img/flags/China.png'
+  #- locale: 'zh'
+   # flag: 'static/img/flags/China.png'
 
 # blog img path
 img_path: 'static/img/blog'
